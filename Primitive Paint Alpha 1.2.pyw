@@ -1,5 +1,5 @@
 ##########################################################################
-##Program Author: George Zhang                                          ##
+##Program Author: Leon Si                                               ##
 ##Revision Date: Nov 12, 2018                                           ##
 ##Program Name: Primitive Paint Alpha 1.2                               ##
 ##Description: This program draws on the canvas of a tkinter window.    ##
